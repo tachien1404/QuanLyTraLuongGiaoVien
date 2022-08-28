@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/Main/Main.java=UTF-8
+encoding//src/entity/ChiTietGiangDay.java=UTF-8
+encoding//src/entity/GVThinhGiang.java=UTF-8
+encoding//src/entity/GiangVien.java=UTF-8
+encoding//src/entity/MonHoc.java=UTF-8
+encoding//src/service/QuanLyGiangVien.java=UTF-8
+encoding//src/service/QuanLyMonHoc.java=UTF-8
